@@ -3,7 +3,7 @@
 基于yolo的内河船舶目标检测算法设计
 
 
-由于github在国内的不稳定性,最新的代码和文件已经转移至gitee, 可以通过此链接进行访问:
+由于github在国内的不稳定性,最新的代码和文件已经转移至gitee, 可以通过此链接进行访问:https://gitee.com/aHeiDaBai/yolov5_ship_detection
 
 
 This project uses yolov5s (the yolov5 code is available at https://github.com/ultralytics/yolov5 ) for ship monitoring
